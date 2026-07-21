@@ -7,9 +7,7 @@ Zadatak:
 
 ** 2. Dodati sljedeće pakete u projekt
       - Microsoft.EntityFrameworkCore.Design, .Tools, .SqlServer, zatim
-      Buildati projekt, nakon toga
-      Unutar PMC-a pokrenuti:
-      dotnet tools install
+      Buildati projekt
 
 ** 3. U PMC pokrenuti komandu
      -> dotnet tool install
