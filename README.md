@@ -1,3 +1,4 @@
+Zadatak:
 1. Otvorite priloženu datoteku "db_algebra_racuni.sql" za kreiranje baze podataka u SQL Server Management Studio (SSMS) alatu. Izvedite skriptu po koracima.
 2. Kreirajte novi ASP.NET MVC projekt u Visual Studiju.
 3. Koristeći naredbu za scaffolding baze podataka iz VS -> Package Manager Console terminala, generirajte bazne objekte preko EF Core-a (modele i db context) putem database-first pristupa
