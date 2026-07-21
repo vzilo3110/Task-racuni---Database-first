@@ -13,7 +13,7 @@ Zadatak:
 
 ** 3. U PMC pokrenuti komandu
      -> dotnet tool install
-     Pa zatim
+     ,pa zatim
      -> dotnet ef dbcontext scaffold "Server=<tvojServer>;Database=invoices;Trusted_Connection=true;;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --project Zadaci.Racuni
 
 **Atribut --project nije nužan, meni nije prepoznavalo project
