@@ -6,9 +6,9 @@ Zadatak:
 5. Dodajte dio za konfiguriranje pristupa bazi podataka kroz konfiguracijsku datoteku.
 
 ** 2. Dodati sljedeće pakete u projekt
-      - Microsoft.EntityFrameworkCore.Design, .Tools, .SqlServer
-      Buildati projekt
-      Unutar PMC-a pokrenuti 
+      - Microsoft.EntityFrameworkCore.Design, .Tools, .SqlServer, zatim
+      Buildati projekt, nakon toga
+      Unutar PMC-a pokrenuti:
       dotnet tools install
 
 ** 3. U PMC pokrenuti komandu
